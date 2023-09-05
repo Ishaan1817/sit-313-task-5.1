@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: impact, haettenschweiler, 'arial narrow bold', sans-serif, 'segoe ui', 'roboto', 'oxygen',
+    'ubuntu', 'cantarell', 'fira sans', 'droid sans', 'helvetica neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, menlo, monaco, consolas, 'courier new',
+    monospace;
+}
